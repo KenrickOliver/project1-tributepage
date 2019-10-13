@@ -13,11 +13,23 @@ User Story #4: Within the img-divelement, I should see an imgelement with a corr
 * **User Story #8:** The imgelement should responsively resize, relative to the width of its parent element, without exceeding its original size.
 * **User Story #9:** The imgelement should be centered within its parent element.
 
-## Version 1 
-Version 1 just satisfies all the basic user stories to pass the required tests
+## Version
+## &nbsp;&nbsp;Version 1
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Version 1 just satisfies all the basic user stories to pass the required tests
 
 ## Built With
-* HTML 5
+* HTML5
 * CSS3
 
 ## Liscence
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
