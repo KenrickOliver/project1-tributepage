@@ -16,7 +16,10 @@ User Story #4: Within the img-divelement, I should see an imgelement with a corr
 ## Version
 ## &nbsp;&nbsp;Version 1
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Version 1 just satisfies all the basic user stories to pass the required tests
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Version 1 just satisfies all the basic user stories to pass the required tests.
+
+## &nbsp;&nbsp;Version 2
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Version 2 fixes the way the HTML page is structured to be more inline with proper, semnatic HTML5.
 
 ## Built With
 * HTML5
